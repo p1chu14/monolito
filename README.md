@@ -33,9 +33,10 @@ CREATE TABLE orders (
 -- Insertar datos de prueba
 INSERT INTO products (name, stock, price) VALUES ('Smartphone', 50, 800.00), ('Laptop', 20, 1500.00);
 
+sql```
+
 # Instalar dependencias
 pip install -r requirements.txt
 
 # Ejecutar el servidor (Monolito)
 uvicorn main:app --reload
-
