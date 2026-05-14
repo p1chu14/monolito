@@ -1,4 +1,3 @@
-***
 # TP1 - Sistemas Distribuidos  
 ## Monolito hacia Microservicios (Market-Place-Inc)
 
@@ -33,7 +32,6 @@ El sistema está compuesto por:
 ```bash
 pip install fastapi uvicorn sqlalchemy aiomysql pydantic locust
 ````
-***
 ***
 
 ### 2. Crear base de datos
