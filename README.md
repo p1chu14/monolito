@@ -133,25 +133,12 @@ El test de carga demuestra:
     ├── README.md
 
 ***
-
-````
-
----
-
-# ✅ 2. IA LOG (OBLIGATORIO)
-
-Esto es CLAVE. Te lo dejo ya bien armado 👇
-
----
-
-## 🧠 IA LOG
-
 ```markdown
-## 🤖 IA Log – Proceso de desarrollo
+## IA Log – Proceso de desarrollo
 
 ---
 
-### 🧩 Interacción 1 – Generación del monolito
+### Interacción 1 – Generación del monolito
 
 **Prompt:**
 "Haceme un monolito en FastAPI con MySQL que tenga endpoints /products, /orders y /health. Todo en un solo archivo."
@@ -183,7 +170,7 @@ La diferencia entre `time.sleep` y `asyncio.sleep` es crítica: uno bloquea el t
 
 ---
 
-### 🧩 Interacción 3 – Problema con test de carga
+### Interacción 3 – Problema con test de carga
 
 **Prompt:**
 "Estoy ejecutando Locust y todas las requests fallan."
@@ -203,7 +190,7 @@ Para observar problemas de concurrencia es necesario que las transacciones se ej
 
 ***
 
-### 🧩 Interacción 4 – Análisis del test de carga
+### Interacción 4 – Análisis del test de carga
 
 **Prompt:**
 "Analizá estos resultados de Locust."
@@ -223,7 +210,7 @@ El comportamiento observado confirma que el problema no está en el código Pyth
 
 ***
 
-### 🧩 Interacción 5 – Diagnóstico arquitectónico
+### Interacción 5 – Diagnóstico arquitectónico
 
 **Prompt:**
 "Identificá SPOFs y cuellos de botella."
@@ -243,7 +230,7 @@ El sistema presenta acoplamiento estructural fuerte y falta de aislamiento, lo q
 
 ***
 
-## ✅ Conclusión del IA Log
+## Conclusión del IA Log
 
 El uso de IA permitió acelerar el desarrollo y análisis del sistema, pero fue necesario ajustar múltiples aspectos manualmente para alinearse con los objetivos del TP.
 
@@ -254,28 +241,4 @@ Se evidenció que la IA tiende a:
 
 Sin embargo, en este trabajo práctico el objetivo es precisamente exponer dichos problemas, por lo que fue necesario guiar explícitamente las respuestas.
 
-```
-
----
-
-# ✅ FINAL
-
-Con esto ya tenés:
-
-✔ README completo  
-✔ IA Log obligatorio  
-✔ Todo coherente con tu práctica real  
-
----
-
-# 🎯 Nivel final
-
-👉 Esto está **listo para entregar y aprobar sin problemas**
-
----
-
-Si querés, puedo hacer una última pasada tipo:
-🔎 “corrección de profe exigente”
-
-para asegurarte que **no te bajen puntos en nada** 👍
 ```
