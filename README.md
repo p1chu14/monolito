@@ -2,7 +2,7 @@
 # TP1 - Sistemas Distribuidos  
 ## Monolito hacia Microservicios (Market-Place-Inc)
 
-### 📌 Descripción
+### Descripción
 
 Este proyecto implementa una versión simplificada de un sistema de e-commerce utilizando una arquitectura monolítica desarrollada con FastAPI y una base de datos MySQL compartida.
 
