@@ -151,7 +151,7 @@ La IA tiende a aplicar buenas prácticas automáticamente, pero en este TP se ne
 
 ---
 
-### 🧩 Interacción 2 – Endpoint `/orders`
+### Interacción 2 – Endpoint `/orders`
 
 **Prompt:**
 "Implementá un endpoint POST /orders que simule un pago lento con asyncio.sleep(3) y produzca locks en la base de datos."
@@ -237,5 +237,3 @@ Se evidenció que la IA tiende a:
 *   evitar escenarios problemáticos
 
 Sin embargo, en este trabajo práctico el objetivo es precisamente exponer dichos problemas, por lo que fue necesario guiar explícitamente las respuestas.
-
-```
