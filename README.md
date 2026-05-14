@@ -130,8 +130,7 @@ El test de carga demuestra:
     ├── locustfile.py
     ├── README.md
 
-***
-```markdown
+
 ## IA Log – Proceso de desarrollo
 
 ---
